@@ -1,2 +1,2 @@
 
-maark-members.gl.joinmc.link
+mark-members.gl.joinmc.link
