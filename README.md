@@ -1,1 +1,1 @@
-celestia-wntc.vercel.app
+https://celestia-wntc.vercel.app
